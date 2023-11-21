@@ -40,7 +40,7 @@
 				}, 500); // 500 мс - продолжительность анимации opacity		
 			
 			}
-		}, 500);
+		}, 1000);
 
 	};
 	
@@ -48,10 +48,12 @@
 	const show = () => {
 
 		// Проверяем, необходимо ли изменить состояние видимости
-		if (button.style.visibility !== 'visible') {			
-
-			button.style.opacity = '0.5';
-			button.style.visibility = 'visible';
+		if (button.style.visibility !== 'visible') {
+			
+			setTimeout(() => {
+				button.style.opacity = '0.5';
+				button.style.visibility = 'visible';			
+			}, 500);
 			
 		}
 	};
