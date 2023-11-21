@@ -16,6 +16,7 @@
 	button.style.right = '20px';
 	button.style.zIndex = '1000';
 	//button.style.borderRadius = '50%'; // Круглая форма
+	button.style.backgroundColor = 'transparent'; // Установите фон прозрачным
 	button.style.opacity = '0.5'; // Полупрозрачность
 	button.style.width = '15vh'; // Ширина
 	button.style.height = '15vh'; // Высота
