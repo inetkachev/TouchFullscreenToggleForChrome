@@ -1,5 +1,8 @@
 # Chrome extension Button for toggle fullscreen on touch devices
-Chrome extension adding floating button to switch webpage to fullscreen (F11) and toggle back only if you using touchscreen right now (great for my MS Surface user experience). Simple 30 min development solution. Cant release it on Chrome Extensions Store, cause they asking for dev account $5... 
+Chrome extension adding floating button to switch webpage to fullscreen (F11) and toggle back only if you using touchscreen right now (great for my MS Surface user experience).
+
+
+PS Simple 30 min development solution. Cant release it on Chrome Extensions Store, cause they asking for dev account $5... 
 
 
 
